@@ -45,3 +45,13 @@ Use only on systems you own or have explicit permission to test.
 
 ## Tech Stack
 Python 3 · Subprocess · Nmap · Nikto · Hydra
+
+## Screenshots
+<img width="810" height="439" alt="Screenshot 2026-06-20 223431" src="https://github.com/user-attachments/assets/b1bf8cca-4f02-44d3-b782-c00eacaf8594" />
+
+<img width="810" height="436" alt="Screenshot 2026-06-20 223510" src="https://github.com/user-attachments/assets/2db40dc4-b62a-4bd2-a829-6189cd2b57ab" />
+
+
+<img width="817" height="442" alt="Screenshot 2026-06-20 232745" src="https://github.com/user-attachments/assets/04dfc1bf-0b09-4898-96d8-4371dd3a1c36" />
+
+<img width="817" height="442" alt="Screenshot 2026-06-20 232745" src="https://github.com/user-attachments/assets/62facb75-d129-4080-a14b-bd7a8e1d2730" />
